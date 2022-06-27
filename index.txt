@@ -1,0 +1,260 @@
+Transportio - To every direction
+
+
+
+#---------- HEADER ----------#
+
+Transportio
+
+aria-label = Clsoe menu
+<ion-icon name="close-outline"></ion-icon>
+
+Home
+<ion-icon name="chevron-forward"></ion-icon>
+
+About
+Service
+Blog
+Contact
+
+Free Call In U.S.A
+1 234 567 8910
+
+<ion-icon name="call-outline"></ion-icon>
+
+aria-label = Open menu
+<ion-icon name="menu-outline"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+To Every Direction
+
+There are many variations of passages of worem Ipsum available, but the majority
+
+View Services
+
+
+
+#---------- ABOUT ----------#
+
+Why Choose Us
+
+We Are Professional Logistics & cargo Agency
+
+Sed ut perspiciatis unde omnis iste natus error volup tatem accusantium dolorem que laudantium, totam inventore.
+
+<ion-icon name="chevron-forward"></ion-icon>
+Go beyond logistics, make the world go round and revolutionize business.
+
+Logistics through innovation, dedication, and technology. ready, set, done.
+
+We take pride in serving our customers safely. together with passion.
+
+Imagination what we can easily see is only a small percentage.
+
+Quality never goes out of style. safety, quality, professionalism.
+
+The quality shows in every move we make where business lives.
+
+Learn More
+
+
+
+#---------- SERVICE ----------#
+
+All Services
+
+Trusted For Our Services
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry the standard dummy text ever since the when an printer took.
+
+width = 80
+height = 60
+
+alt = Truck
+
+01
+Air Freight
+
+Our aim is to optimize and improve your supply chain so that we can give you the best service.
+
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+View Detail
+
+width = 74
+height = 60
+
+alt = Ship
+02
+Road Freight
+
+width = 60
+height = 60
+
+alt = Airplane
+03
+Ocean Freight
+
+width = 50
+height = 60
+
+alt = Train
+04
+Rail Freight
+
+width = 63
+height = 60
+
+alt = Trolley
+05
+Warehousing
+
+width = 46
+height = 60
+
+alt = Paper
+06
+Project Cargo
+
+
+
+#---------- FEATURE ----------#
+
+Estimation
+
+Has a wide range of solutions
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry the standard dummy text ever since the when an printer took.
+
+Read More
+
+Solutions and specialized
+
+Our aim is to optimize and improve your supply chain so that we can give you the best service
+
+aria-label = Read more
+<ion-icon name="arrow-forward"></ion-icon>
+
+Multiple warehouses
+
+We provide multiple drop off and pickup locations so you don't have to worry. And you should not face any kind...
+
+Tracking made easy
+
+A tracking number for the entire process. so that you can find the exact position. this process will help you
+
+
+
+#---------- PROJECT ----------#
+
+Projects
+
+Featured Projects
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry the standard dummy text ever since the when an printer took.
+
+alt = Warehouse inventory
+
+aria-label = View image
+<ion-icon name="expand-outline"></ion-icon>
+
+Warehousing , Distrbution
+
+Warehouse inventory
+
+Read More
+
+Logistics, Analytics
+
+Minimize Manufacturing
+
+
+
+#---------- BLOG ----------#
+
+Our Blogs
+
+Recent news & events
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry the standard dummy text ever since the when an printer took.
+
+alt = At the end of the day, going forward, a new normal that has evolved from. your only logistic partner.
+
+02 Aug
+
+At the end of the day, going forward, a new normal that has evolved from. your only logistic partner.
+
+New chip traps clusters of migrating tumor cells asperiortenetur, blanditiis odit. typesetting industry the standard dummy text ever since the when an printer.
+
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+Read More
+
+alt = Going forward, a new normal that has evolved from generation. moving your products across all borders.
+
+21 Aug
+
+Going forward, a new normal that has evolved from generation. moving your products across all borders.
+
+
+
+
+#---------- NEWSLETTER ----------#
+
+alt = newsletter banner
+
+Subscribe for offers and news
+
+placeholder = Enter Your Email
+
+aria-label = email
+
+Subscribe Now
+
+
+
+#---------- FOOTER ----------#
+
+Transportio
+
+Many desktop publishing packages and web page editors now use are dolra Ipsum as their default.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Quick Links
+
+About
+Services
+Blog
+FAQ
+Contact Us
+
+Services
+
+Warehouse
+Air Freight
+Ocean Freight
+Road Freight
+Packaging
+
+Community
+
+Business Consulting
+Testimonials
+Track Your Shipment
+Privacy Policy
+Terms & Condition
+
+&copy; 2022 Transportio. All Rights Reserved by codewithsadee
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = Back to top
+
+<ion-icon name="chevron-up"></ion-icon>
